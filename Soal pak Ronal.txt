@@ -1,0 +1,25 @@
+2) 1. Manufaktuar  : bisa lebih baik jika menggunakan perangkat lunak untuk mengelola produksi, inventaris, dan manajemen keuangan.
+   2. Pariwisata   : bisa lebih baik jika menggunakan perangkat lunak untuk menjalankan bisnis pariwisata,seperti hotel, penginapan, dan transportasi. 
+   3. Perbankan    : bisa lebih baik jika menggunakan perangkat lunak untuk mengelola transaksi keuangan dan investasi.
+   4. Transportasi : bisa lebih baik jika menggunakan perangkat lunak untuk mencapati efisien dan keamanan dalam penggunaan transportasi.
+   5. Perdagangan  : bisa lebih baik jika menggunakan sebuah perangkat lunak untuk mengelola inventaris, pemasaran, dan pelayanan pelangan.
+
+3. -Keuntungan Manufaktuar adalah dapat Penghematan waktu, pemantauan Real-time, Efisien, Analisi data, Kedisiplinan.
+   -Keuntungan dalam Pariwisata adalah Manajemen data, Pemantauan reservasi, Sistem akomodasi, Pemantauan staf, Pemasaran, Pengambilan keputusan yang terinformasi.
+   -Keuntungan dalam transportasi adalah Manajemen operasi, Pengaturan perjalanan, Pemantauan Kendaraan, Manajemen ketersediaan, Pengelola biaya.
+   -Keuntungan dalam perdaganan adalah Pengelola stok, Pengelola pemasaran, Pengelola pelangan, Pengelola keuangan, Analisi data.
+   -Keuntungan dalam bisnis perbankan adalah Pengelola rekening, Manajemen kredit, Pengelola aset, Pengelola keamanan, Pemantauan performa.
+
+4. Selama bertahun-tahun, saya melakukan berbagai macam hal dengan file-file di komputer, dari menulis, mengedit, menyimpan, menggungah, mengirim, mencadangkan, dan mengakses file-file tersebut.
+   Saya juga pernah mempelajari soal pengelola dan organisasi file-file pada komputer, serta bagaimana metadata dapat membantu atau berperan dalam mengatur dan mengelola data yang tersimpan
+   secara efektif. Saya juga telah belajar tentang pengarsipan file-file yang penting untuk memastikan keberlangsungan dan keamanan data secara jangka panjang.
+
+   Metadata dapat membantu atau berperan dalam file-file di beberapa hal, seperti pengelola data; dengan mengandung informasi tentang data, misalnya nama, ukuran, waktu pengambilan.
+
+5. Metadata dapat berperan penting dalam mempelajari dan menyelesaikan kasus kriminal atau pidana. Salah satu kasus yang menggunakan metadata untuk mengumpulkan sekaligus menyelesaikan kasus tersebut
+   adalah kasus pembunuhan Holly Clee pada tahun 2004 di informasi Inggris.
+   Holly Clee diduga terlibat dalam kasus pembunuhan pada tahun 2004 dan menjadi tahanan sementara. Namun, polisi tidak dapat menarik kesimpulan setelah melakukan interogasi dan bertanya kepada Saksi. 
+   Akhirnya, polisi mengambil langkah terakhir dengan menggunakan data GPS meta di ponsel Holly.
+   Data GPS tersebut digunakan oleh polisi untuk menentukan rute yang dilalui Holly Clee pada malam sebelum terlibat pembunuhan. Data GPS ini terbukti sangat membantu polisi untuk mengkonfirmasi keberadaan
+   Holly pada malam hari pembunuhan dan mengarahkannya sebagai pembunuh tak terduga.
+   Dengan meta data tersebut, polisi dapat menyelesaikan kasus dengan cepat dan mengakhiri kegelisahan dan ancaman terhadap orang-orang yang terlibat dalam kasus tersebut.
